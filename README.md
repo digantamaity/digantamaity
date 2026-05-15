@@ -1,9 +1,9 @@
 
 <h1 align="center">Hey 👋, I'm Diganta Maity</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Lifelong Learner 🚀</h3>
+<h3 align="center">Data Analyst | Python & SQL | Insights to Action 📊</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full+Stack+Web+Developer;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%8C%90;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Dashboards+%26+ML+Models;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,14 +19,16 @@
 ## ⚡ About Me
 
 - 👨‍💻 **Full Name**: Diganta Maity  
-- 💻 **Role**: Full Stack Developer  
-- 🌱 **Learning**: Data Science & Machine Learning  
-- 🧰 **Tech Stack**: JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS  
+- 🎓 **Education**: 3rd-year Computer Science student at Netaji Subhash Engineering College  
+- 📍 **Location**: Kolkata, India  
+- 💼 **Role**: Data Analyst  
+- 🌱 **Learning**: Machine Learning & advanced analytics  
+- 🧰 **Tech Stack**: Python (NumPy, Pandas, Matplotlib), SQL, Power BI, Excel, Scikit-learn, Streamlit  
 - 💬 **Interests**:
-  - Open Source Contributions  
-  - Building Real Projects  
-  - Exploring New Technologies
-- 📫 **Reach me at**: [digantamity6@gamil.com](mailto:digantamity6@gamil.com)
+  - Data cleaning, visualization & storytelling  
+  - Building dashboards and ML models  
+  - Deploying analytics apps with Streamlit  
+- 📫 **Reach me at**: [digantamity6@gmail.com](mailto:digantamity6@gmail.com)
 
 ---
 
@@ -34,41 +36,27 @@
 
 <p align="center">
 
-<!-- MERN Stack -->
-<img src="https://img.shields.io/badge/MERN-Stack-%23323330?style=for-the-badge&logo=mongodb&logoColor=green" />
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<!-- Python & Data -->
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 <br/>
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<!-- Analytics & BI -->
+<img src="https://img.shields.io/badge/SQL-%2300BCF2.svg?style=for-the-badge&logo=azure-sql-database&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 <br/>
 
-<!-- Backend & Databases -->
-<img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-
-<br/>
-
-<!-- Tools & Others -->
+<!-- Tools -->
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
@@ -77,16 +65,16 @@
 
 ## 🎯 Focus & Goals
 
-- 🚀 Build scalable and responsive full stack applications.  
-- 🌱 Learn and explore new technologies.  
-- 🤝 Contribute to open-source and collaborate with developers.
+- 📊 Turn raw data into clear insights and visual stories.  
+- 🧠 Build predictive models with Python & Scikit-learn.  
+- 🚀 Deploy interactive dashboards and apps with Streamlit & Power BI.
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:digantamity6@gamil.com">
+  <a href="mailto:digantamity6@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/diganta-maity-94737935a/">
@@ -99,30 +87,16 @@
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=digantamaity&theme=tokyonight&hide_border=true" width="98%"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/digantamaity?style=for-the-badge&label=Followers&color=0e75b6"/>
   <img src="https://img.shields.io/github/stars/digantamaity?style=for-the-badge&label=Stars&color=yellow"/>
   <img src="https://img.shields.io/github/commit-activity/y/digantamaity?style=for-the-badge&label=Commits&color=green"/>
-</p>
-
-
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=digantamaity&theme=tokyonight&hide_border=true" width="98%"/>
 </p>
 
 ---
@@ -135,10 +109,10 @@
 
 ---
 
-## 🐍 3D Snake Contribution Animation
+## 🐍 Snake Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/digantamaity/digantamaity/output/snake-3d.gif" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/digantamaity/digantamaity/output/snake.svg" alt="Snake eating contributions" />
 </p>
 
 ---
@@ -146,13 +120,14 @@
 ## ✨ Profile Summary Cards
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digantamaity&theme=tokyonight" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digantamaity&theme=tokyonight" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digantamaity&theme=tokyonight" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digantamaity&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digantamaity&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digantamaity&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digantamaity&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digantamaity&theme=tokyonight" height="150"/>
 </p>
 
 ---
+
 ## 🧊 3D Contribution Graph
 
 <p align="center">
@@ -178,4 +153,3 @@
 <p align="center">
   ⭐ Built by <a href="https://github.com/digantamaity">Diganta Maity</a> ⭐
 </p>
-
