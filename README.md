@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" width="400" alt="Coding gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJ4ZGdmZWd5dTFsMHRnd3pyZ2c1N3A0ZWw2OHU1NzJqM3ZlczMzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/shIRdgYzujbZC/giphy.gif" width="480" alt="Cat coding gif"/>
 </p>
 
 ---
