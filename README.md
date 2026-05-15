@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | Python & SQL | Insights to Action 📊</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Dashboards+%26+ML+Models;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Data+Analyst;PYthon+%7C+SQL+%7C+Power+BI;Building+Dashboards+%26+ML+Models;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
