@@ -7,12 +7,14 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "profile-3d-contrib/**"
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -26,11 +28,13 @@ jobs:
           outputs: |
             dist/snake.svg?color_snake=#00FF90&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          force_orphan: true
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_message: "chore: update snake animation"
